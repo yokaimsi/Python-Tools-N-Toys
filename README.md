@@ -23,10 +23,9 @@ This script searches for a specified string or word in large text files efficien
 > `search_in_chunk()`: Searches for the string in a single chunk.\n
 > `search_in_file()`: Manages file processing, multithreading, and memory usage.\n
 
-
+*The script will then search for "password123" in `largefile.txt`, show progress, and save all matches to found.log if you chose to do so.*
 **Example Usage:**
 ```bash
 Enter the path to the text file: /path/to/largefile.txt
 Enter the string to search for: password123
 Would you like to save all matches to 'found.log' file? (yes/no): yes```
-**The script will then search for "password123" in `largefile.txt`, show progress, and save all matches to found.log if you chose to do so.**
