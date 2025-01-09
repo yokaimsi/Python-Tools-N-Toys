@@ -1,6 +1,3 @@
-# Python-Tools-N-Toys
-The content I am writing is for testing purposes only and is not meant to harm, offend, or negatively impact anyone. Any resemblance to real people or events is purely coincidental. If misused, I will not be held responsible for any consequences. The responsibility lies with those who misuse it.
-
 # Sting-Finder.py
 This script searches for a specified string or word in large text files efficiently, using memory management and multithreading. It processes the file in chunks to avoid loading the entire file into memory, allowing you to search large files without exhausting system resources.
 
