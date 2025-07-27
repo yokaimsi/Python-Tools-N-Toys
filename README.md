@@ -1,4 +1,4 @@
-# Sting-Finder.py
+# Sting Finder
 This script searches for a specified string or word in large text files efficiently, using memory management and multithreading. It processes the file in chunks to avoid loading the entire file into memory, allowing you to search large files without exhausting system resources.
 
 **How to Use:**
